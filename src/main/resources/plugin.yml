@@ -1,0 +1,4 @@
+name: borealis
+version: '${project.version}'
+main: org.twotails.borealis.Borealis
+api-version: 1.19
